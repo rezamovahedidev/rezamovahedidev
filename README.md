@@ -31,5 +31,5 @@
 <a href="https://github.com/itsamirdev">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsamirdev&theme=onedark" height="180em" /> <br/><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=itsamirdev&theme=one-dark-pro&fire=EB197C&border=EBDD83&ring=EBB250" height="180em" /> <br/><br/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=itsamirdev&theme=onedark" height="180em" />&nbsp;&nbsp;&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsamirdev&langs_count=8&theme=onedark" alt=itsamirdev /></a>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rezamovahedidev&theme=onedark" height="180em" />&nbsp;&nbsp;&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezamovahedidev&langs_count=8&theme=onedark" alt=itsamirdev /></a>
 </div>
