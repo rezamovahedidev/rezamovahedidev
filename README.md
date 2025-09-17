@@ -3,6 +3,8 @@
 <h3 align="center">A junior python developer</h3>
 <br/>
 '''
+<div align="center">
+ <h3 align="center">contact me</h3>
  <a href="https://www.linkedin.com/in/reza-movahedi-8a7a22383/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -12,7 +14,7 @@
   <a href="https://instagram.com/reza_m__8" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-
+</div>
 <img align="right" alt="sheikh python" width="400"
     src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
